@@ -2,4 +2,4 @@
 
 This is a test for git.
 
-Fujitsu αFLOW is a product developed by our company based on the results of the Fluid Analysis System Research Group (α Project), which was established with the aim of researching and developing a world-class general-purpose 3D fluid analysis system.
+Poynting is a general-purpose 3D electromagnetic wave analysis software. By adopting the FDTD method, it provides strong support for the EMC design for the product development process in a wide range of fields, including radiation from printed circuit boards and immunity analysis.
